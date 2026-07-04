@@ -74,11 +74,85 @@ A data-driven **Customer Churn Analysis** project that identifies customers like
 | **XGBoost** | **85.8%** | **0.84** | **0.82** | **0.83** | **0.90** |
 | SVM | 82.1% | 0.80 | 0.77 | 0.78 | 0.86 |
 
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
- 📬 Contact
-Anushree Saha
 
-LinkedIn: www.linkedin.com/in/anushree-saha-4bb3a4368
-- Email: riyaggit58@gmail.com
+## 📬 Let's Connect & Collaborate!
+
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing!;Open+for+collaborations;Available+for+opportunities;Reach+out+anytime!" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+### 🌟 Choose Your Preferred Way to Connect
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+  <a href="www.linkedin.com/in/anushree-saha-4bb3a4368">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+    <br/><br/>
+    <b>LinkedIn</b>
+    <br/>
+    <sub>Professional Network</sub>
+  </a>
+</td>
+<td align="center" width="160">
+  <a href="riyaggit58@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45"/>
+    <br/><br/>
+    <b>Email</b>
+    <br/>
+    <sub>Direct Message</sub>
+  </a>
+</td>
+    <sub>Daily Updates</sub>
+  </a>
+</td>
+<td align="center" width="160">
+  <a href="https://github.com/12Anushree">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+    <br/><br/>
+    <b>GitHub</b>
+    <br/>
+    <sub>More Projects</sub>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💬 I usually respond within 24 hours!
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+<br/>
+
+### 🎯 Support This Project
+
+<p>
+<a href="https://github.com/12Anushree/REPO-NAME/stargazers">
+  <img src="https://img.shields.io/github/stars/yourusername/REPO-NAME?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" alt="Stars"/>
+</a>
+<a href="https://github.com/12Anushree/REPO-NAME/network/members">
+  <img src="https://img.shields.io/github/forks/yourusername/REPO-NAME?style=for-the-badge&logo=git&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41" alt="Forks"/>
+</a>
+<a href="https://github.com/12Anushree/REPO-NAME/watchers">
+  <img src="https://img.shields.io/github/watchers/yourusername/REPO-NAME?style=for-the-badge&logo=eye&color=F5C2E7&logoColor=D9E0EE&labelColor=302D41" alt="Watchers"/>
+</a>
+</p>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=12Anushree&label=REPO%20VISITS&color=00D9FF&style=for-the-badge)
+
+</div>
+
