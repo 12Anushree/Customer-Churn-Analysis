@@ -1,12 +1,21 @@
-# 📉 Customer Churn Analysis
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:06b6d4,20:3b82f6,40:6366f1,65:8b5cf6,85:ec4899,100:f43f5e&height=250&section=header&text=Customer%20Churn%20Analysis&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Identifying%20Customers%20%Relationship%20With%20%Your%20Business&descAlignY=58&descSize=16"/>
+<br/>
+
+<!-- Colorful Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ![Machine Learning](https://img.shields.io/badge/ML-Classification-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 📌 Project Overview
+## 📌<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50">  Project Overview
 
 A data-driven **Customer Churn Analysis** project that identifies customers likely to leave a service. Using exploratory data analysis and machine learning classification models, this project uncovers key churn drivers and provides actionable retention strategies.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🎯 Objectives
 
@@ -15,12 +24,16 @@ A data-driven **Customer Churn Analysis** project that identifies customers like
 - Build predictive classification models to flag at-risk customers
 - Provide data-backed retention strategies to reduce churn rate
 - Visualize churn patterns across demographics and usage metrics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📂 Dataset
 
 - **Source:** [Kaggle Datasets](https://www.kaggle.com/datasets)
 - **Records:** 7,000+ customer records
 - **Features:** Customer ID, Gender, Tenure, Monthly Charges, Contract Type, Internet Service, Payment Method, Churn (Target)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Tech Stack
 
@@ -30,6 +43,8 @@ A data-driven **Customer Churn Analysis** project that identifies customers like
 | Scikit-Learn | ML models & evaluation |
 | XGBoost | Gradient boosting classifier |
 | Microsoft Excel | Development environment |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📁 Live Dashboard
 
@@ -65,6 +80,8 @@ A data-driven **Customer Churn Analysis** project that identifies customers like
 - **Electronic check** payment users churn **2x more** than auto-pay users
 - Customers without **tech support** churn at **40% rate**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🤖 Model Performance
 
 | Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
@@ -74,9 +91,8 @@ A data-driven **Customer Churn Analysis** project that identifies customers like
 | **XGBoost** | **85.8%** | **0.84** | **0.82** | **0.83** | **0.90** |
 | SVM | 82.1% | 0.80 | 0.77 | 0.78 | 0.86 |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📬 Let's Connect & Collaborate!
 
 <div align="center">
@@ -132,9 +148,8 @@ A data-driven **Customer Churn Analysis** project that identifies customers like
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 
 ### 🎯 Support This Project
 
